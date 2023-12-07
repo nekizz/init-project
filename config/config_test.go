@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"bitbucket.org/buuuksg/saas-api/config"
+	"github.com/nekizz/init-project/config"
 	"github.com/stretchr/testify/assert"
 )
 
